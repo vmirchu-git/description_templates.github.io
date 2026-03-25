@@ -43,8 +43,7 @@ This negatively impacted labeling accuracy and slowed decision-making.
 - Template adopted in IA guidelines as a recommended structure.  
 - Extended structured approach to other intent categories.  
 
-### Business Impact
-- Improved user experience for annotators.  
+### Business Impact  
 - Enhanced standardization in documentation.  
 - Established testing methodology for content changes.  
 
